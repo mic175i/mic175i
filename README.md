@@ -21,7 +21,7 @@
 I'm a Full Stack Developer with 10+ years (80% Backend and 20% Frontend), developing and implementing applications and solutions using a range of technologies and programming languages.
 <br />
 
-I'm currently based in **[Bali, Indonesia.]([https://www.google.com/maps/place/Ben+Guerir/@32.2307977,-7.9817398,13z/data=!3m1!4b1!4m5!3m4!1s0xdaf7a781193e37b:0x600a48af566b132a!8m2!3d32.2359364!4d-7.9538378](https://www.google.com/maps/place/Denpasar,+Denpasar+City,+Bali/@-8.6725072,115.1542325,12z/data=!3m1!4b1!4m5!3m4!1s0x2dd2409b0e5e80db:0xe27334e8ccb9374a!8m2!3d-8.6704582!4d115.2126293))**
+I'm currently based in **[Bali, Indonesia.](https://www.google.com/maps/place/Denpasar,+Denpasar+City,+Bali/@-8.6725072,115.1542325,12z/data=!3m1!4b1!4m5!3m4!1s0x2dd2409b0e5e80db:0xe27334e8ccb9374a!8m2!3d-8.6704582!4d115.2126293)**
 
 <br />
 I love learning new techs and using new tools. I also love drinking Java Coffe (ofcourse as java developer) while coding.
