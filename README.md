@@ -30,10 +30,10 @@ Ask me anything **[here](https://github.com/mic175i/mic175i/issues/new)** or <a 
 <br />
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mic175i&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Mic175i Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mic175i&include_all_commits=true&count_private=true&show_icons=true" alt="Mic175i Github Stats">
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mic175i&layout=compact&theme=dark&bg_color=0A0A0A" alt="Michael Salim Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mic175i" alt="Michael Salim Top Languages"/>
 <br />
 <br />
 <br />
@@ -68,12 +68,10 @@ Ask me anything **[here](https://github.com/mic175i/mic175i/issues/new)** or <a 
 <a margin="10" href="https://firebase.google.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/firebase.svg" alt="firebase"></a>
 <a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/mongodb.svg" alt="mongodb"></a>
 <a margin="10" href="https://devdocs.io/c/" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/c.svg" alt="c programming"></a>
-<a margin="10" href="https://www.ruby-lang.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/ruby.svg" alt="ruby"></a>
 <a margin="10" href="https://www.jetbrains.com/youtrack/" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/yourtrack.svg" alt="yourtrack"></a>
 <br />
 <br />
 <a margin="10" href="https://sanity.io" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/sanity.svg" alt="sanity"></a>
-<a margin="10" href="https://rubyonrails.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/rails.svg" alt="ruby on rails"></a>
 <a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg" alt="express"></a>
 </div>
 <br />
