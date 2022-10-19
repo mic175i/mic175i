@@ -11,7 +11,7 @@
 </a>
 <br />
 <br />
-<img src="https://www.codewars.com/users/Achhoubi%20Alpha/badges/large" alt="Achhoubi Alpha Codewars Badge">
+<img src="https://www.codewars.com/users/mic175i/badges/large" alt="Codewars Badge">
 <br />
 <br />
 
@@ -81,5 +81,5 @@ Ask me anything **[here](https://github.com/mic175i/mic175i/issues/new)** or <a 
 <br />
 
 <div align="center">
-Last Edited on: 30/06/2022
+Last Edited on: 19/10/2022
 </div>
